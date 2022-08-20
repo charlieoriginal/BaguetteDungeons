@@ -1,0 +1,4 @@
+# Only enable when you need extra insight about potential errors/bugs.
+debug-messages: false
+cooldown: 3000
+dungeon-time: 5000

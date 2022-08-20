@@ -1,0 +1,17 @@
+name: BaguetteDungeons
+version: '${project.version}'
+main: net.kizuki.baguettedungeons.BaguetteDungeons
+api-version: 1.13
+softdepend: [ PlaceholderAPI ]
+authors: [ Baguette, WizardChan, Kizuki ]
+description: A dungeons plugin similar to MCHub's dungeons plugin.
+website: www.kizuki.net
+commands:
+  dungeon:
+    permission: dungeon.access
+    description: The main command to teleport into the dungeon instance.
+    aliases: [dungeons]
+  dungeonadmin:
+    permission: dungeon.admin
+    description: The admin command for the initial setup of the dungeon.
+    aliases: [dungeonsadmin, dungadmin, da]

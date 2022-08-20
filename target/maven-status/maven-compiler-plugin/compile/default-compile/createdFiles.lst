@@ -1,0 +1,8 @@
+net\kizuki\baguettedungeons\commands\DungeonCommand.class
+net\kizuki\baguettedungeons\commands\DungeonAdminCommand.class
+net\kizuki\baguettedungeons\BaguetteDungeons.class
+net\kizuki\baguettedungeons\dungeons\DungeonEnemyRespawnTask.class
+net\kizuki\baguettedungeons\dungeons\DungeonTimerTask.class
+net\kizuki\baguettedungeons\utils\ColorUtils.class
+net\kizuki\baguettedungeons\dungeons\DungeonEnemy.class
+net\kizuki\baguettedungeons\dungeons\DungeonHandler.class
